@@ -26,13 +26,10 @@
     [![Front-end development](https://skillicons.dev/icons?i=html,css,tailwind,sass,js,react,nextjs&perline=3)](https://skillicons.dev)
 
  -   Back-end development
-
     [![Back-end development](https://skillicons.dev/icons?i=php&perline=3)](https://skillicons.dev)
 
  -   Database
-
     [![Database](https://skillicons.dev/icons?i=mongodb&perline=3)](https://skillicons.dev)
 
  -   Project Management
-
     [![Project Management](https://skillicons.dev/icons?i=git,github&perline=3)](https://skillicons.dev)
