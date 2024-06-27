@@ -20,7 +20,7 @@
 <h2>TECH STACK</h2>
 
  -   Web design
-    [![Web design](https://skillicons.dev/icons?i=figma,xd&perline=3)](https://skillicons.dev)
+        [![Web design](https://skillicons.dev/icons?i=figma,xd&perline=3)](https://skillicons.dev)
     
  -   Front-end development
     [![Front-end development](https://skillicons.dev/icons?i=html,css,tailwind,sass,js,react,nextjs&perline=3)](https://skillicons.dev)
