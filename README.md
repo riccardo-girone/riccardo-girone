@@ -10,13 +10,24 @@
 -   ⚡ Passions **I love playing video games, reading manga, going to the gym and of course, webDev.**
 
 
-##PORTFOLIO
+<h2>PORTFOLIO</h2>
 
-[comingSoon...] (https://github.com/riccardo-girone)
+[comingSoon...](https://github.com/riccardo-girone)
 
-##TECH STACK
-[![Web design](https://skillicons.dev/icons?i=figma,xd)](https://skillicons.dev)
-[![Front-end development](https://skillicons.dev/icons?i=html,css,tailwind,sass,js,react,nextjs)](https://skillicons.dev)
-[![Back-end development](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
-[![Database](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
-[![Project Management](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+
+<h2>TECH STACK</h2>
+
+ -   Web design
+[![Web design](https://skillicons.dev/icons?i=figma,xd&perline=3)](https://skillicons.dev)
+
+ -   Front-end development
+[![Front-end development](https://skillicons.dev/icons?i=html,css,tailwind,sass,js,react,nextjs&perline=3)](https://skillicons.dev)
+
+ -   Back-end development
+[![Back-end development](https://skillicons.dev/icons?i=php&perline=3)](https://skillicons.dev)
+
+ -   Database
+[![Database](https://skillicons.dev/icons?i=mongodb&perline=3)](https://skillicons.dev)
+
+ -   Project Management
+[![Project Management](https://skillicons.dev/icons?i=git,github&perline=3)](https://skillicons.dev)
