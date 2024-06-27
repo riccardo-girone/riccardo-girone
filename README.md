@@ -20,11 +20,9 @@
 <h2>TECH STACK</h2>
 
  -   Web design
-
     [![Web design](https://skillicons.dev/icons?i=figma,xd&perline=3)](https://skillicons.dev)
     
  -   Front-end development
-
     [![Front-end development](https://skillicons.dev/icons?i=html,css,tailwind,sass,js,react,nextjs&perline=3)](https://skillicons.dev)
 
  -   Back-end development
@@ -36,5 +34,5 @@
     [![Database](https://skillicons.dev/icons?i=mongodb&perline=3)](https://skillicons.dev)
 
  -   Project Management
- 
+
     [![Project Management](https://skillicons.dev/icons?i=git,github&perline=3)](https://skillicons.dev)
