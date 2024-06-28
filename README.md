@@ -5,16 +5,25 @@
 
 -   🌱 I’m currently learning **Nextjs, gsap, framermotion**
 
--   📫 How to reach me **Discord: g1n.\_.**
-
 -   ⚡ Passions **I love playing video games, reading manga, going to the gym and of course, webDev.**
 
-<h2>PORTFOLIO</h2>
 </br>
+
+
+<h2>PORTFOLIO</h2>
 
 [comingSoon...](https://github.com/riccardo-girone)
 
 </br>
+
+<h2>SOCIAL</h2>
+
+[linkeIn](https://github.com/riccardo-girone) \
+[telegram](https://github.com/riccardo-girone) \
+[x](https://github.com/riccardo-girone)
+
+</br>
+
 <h2>TECH STACK</h2>
 
 -   Web design
