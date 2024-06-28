@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Riccardo Girone </h1>
 <h3 align="center">* Web developer apprentice *</h3>
-</br>
 
 -   💻 Currently working on **Personal project**
 
