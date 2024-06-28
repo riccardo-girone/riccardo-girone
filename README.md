@@ -1,7 +1,9 @@
-<h1 align="center">Hi, I'm Riccardo Girone</h1>
-<h4 align="center">Web developer apprentice</h4>
-
+<h1 align="center">Hi, I'm Riccardo Gironee</h1>
+<h3 align="center">Web developer apprentice</h3>
 </br>
+</br>
+
+-   💻 Working on **Personal project**
 
 -   🌱 I’m currently learning **Nextjs, gsap, framermotion**
 
@@ -19,6 +21,7 @@
 <h2>SOCIAL</h2>
 
 [linkeIn](https://github.com/riccardo-girone) \
+[discord](https://github.com/riccardo-girone) \
 [telegram](https://github.com/riccardo-girone) \
 [x](https://github.com/riccardo-girone)
 
