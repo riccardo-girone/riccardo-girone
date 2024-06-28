@@ -1,28 +1,34 @@
-<h1 align="center">Hi, I'm Riccardo Gironee</h1>
-<h3 align="center">Web developer apprentice</h3>
+<h1 align="center">Hi, I'm Riccardo Girone </h1>
+<h3 align="center">* Web developer apprentice *</h3>
 </br>
 
 -   💻 Currently working on **Personal project**
 
 -   🌱 I’m currently learning **Nextjs, gsap, framermotion**
 
--   ⚡ Passions **I love playing video games, reading manga, going to the gym and of course, webDev.**
+-   🎮 Passions **Play video games, read manga, sports(gym, run, swim) and of course, webDev.**
 
 </br>
 
 
 <h2>PORTFOLIO</h2>
 
-[comingSoon...](https://github.com/riccardo-girone)
+[ComingSoon...](https://github.com/riccardo-girone)
+
+</br>
+
+<h2>MAIL</h2>
+
+<a href="mailto:riccardo.gironeee@gmail.com" target="_blank">riccardo.gironeee@gmail.com</a>
 
 </br>
 
 <h2>SOCIAL</h2>
 
-[linkeIn](https://github.com/riccardo-girone) \
-[discord](https://github.com/riccardo-girone) \
-[telegram](https://github.com/riccardo-girone) \
-[x](https://github.com/riccardo-girone)
+<a href="google.com" target="_blank">Linkedin</a> \
+<a href="google.com" target="_blank">Discord</a> \
+<a href="google.com" target="_blank">X</a> \
+<a href="google.com" target="_blank">Dribbble</a>
 
 </br>
 
