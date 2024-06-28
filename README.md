@@ -1,9 +1,8 @@
 <h1 align="center">Hi, I'm Riccardo Gironee</h1>
 <h3 align="center">Web developer apprentice</h3>
 </br>
-</br>
 
--   💻 Working on **Personal project**
+-   💻 Currently working on **Personal project**
 
 -   🌱 I’m currently learning **Nextjs, gsap, framermotion**
 
