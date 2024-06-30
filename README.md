@@ -16,7 +16,7 @@
 
 <h2>MAIL</h2>
 
-<a href="mailto:riccardo.gironeee@gmail.com" target="_blank">riccardo.gironeee@gmail.com</a>
+<a href="mailto:girone.riccardoo@gmail.com" target="_blank">girone.riccardoo@gmail.com</a>
 
 <h2>SOCIAL</h2>
 
