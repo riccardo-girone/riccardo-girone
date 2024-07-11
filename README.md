@@ -21,8 +21,8 @@
 <h2>SOCIAL</h2>
 
 <a href="https://www.linkedin.com/in/riccardo-girone" target="_blank">Linkedin</a> \
-<a href="google.com" target="_blank">Discord</a> \
-<a href="google.com" target="_blank">X</a> \
+<a href="https://discord.com/" target="_blank">Discord</a> \
+<a href="https://x.com/riccardo_girone" target="_blank">X</a> \
 <a href="https://dribbble.com/riccardo-girone" target="_blank">Dribbble</a>
 
 </br>
