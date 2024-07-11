@@ -20,7 +20,7 @@
 
 <h2>SOCIAL</h2>
 
-<a href="google.com" target="_blank">Linkedin</a> \
+<a href="https://www.linkedin.com/in/riccardo-girone" target="_blank">Linkedin</a> \
 <a href="google.com" target="_blank">Discord</a> \
 <a href="google.com" target="_blank">X</a> \
 <a href="google.com" target="_blank">Dribbble</a>
