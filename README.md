@@ -48,3 +48,8 @@
 -   Project Management
 
     [![Project Management](https://skillicons.dev/icons?i=git,github&perline=3)](https://skillicons.dev)
+
+-   Creative stuff
+
+    [![Createve](https://skillicons.dev/icons?i=blender&perline=3)](https://skillicons.dev)
+    
